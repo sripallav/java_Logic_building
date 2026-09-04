@@ -33,6 +33,8 @@ class Distinct{
 
             }
 
+            sc.close();
+
 
             
         }
@@ -56,6 +58,3 @@ class Distinct{
 
 
 
-class ThreedigitnumberDistinct{
-
-}
