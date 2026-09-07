@@ -14,7 +14,6 @@ public class AreaOfTriangle {
 
         
     }
-    
 }
 
 class Areacal{
