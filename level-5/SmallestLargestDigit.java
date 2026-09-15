@@ -30,8 +30,8 @@ class SmallestandLargestDigit{
             num = num/10;
         }
 
-        System.out.println("samllest: " + smallest);
-         System.out.println("largest: " +  largest);
+        System.out.println("smallest: " + smallest);
+        System.out.println("largest: " +  largest);
 
 
     
