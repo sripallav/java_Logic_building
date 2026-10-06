@@ -1,0 +1,3 @@
+class adam_number{
+    
+}
